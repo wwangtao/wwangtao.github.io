@@ -1,0 +1,1 @@
+<?php exit;//a:3:{i:2;a:3:{s:4:"name";s:9:"Web基础";s:2:"id";s:1:"8";s:5:"alias";s:3:"web";}i:3;a:3:{s:4:"name";s:12:"前端基础";s:2:"id";s:1:"9";s:5:"alias";s:8:"qianduan";}i:4;a:3:{s:4:"name";s:6:"思想";s:2:"id";s:1:"7";s:5:"alias";s:7:"thought";}}

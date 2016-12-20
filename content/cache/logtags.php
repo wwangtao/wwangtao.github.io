@@ -1,0 +1,1 @@
+<?php exit;//a:4:{i:1;a:0:{}i:2;a:1:{i:0;a:3:{s:7:"tagname";s:3:"Web";s:3:"tid";i:1;s:6:"tagurl";s:3:"Web";}}i:3;a:1:{i:0;a:3:{s:7:"tagname";s:3:"Git";s:3:"tid";i:2;s:6:"tagurl";s:3:"Git";}}i:4;a:1:{i:0;a:3:{s:7:"tagname";s:6:"英语";s:3:"tid";i:3;s:6:"tagurl";s:18:"%E8%8B%B1%E8%AF%AD";}}}
